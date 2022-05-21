@@ -1,5 +1,5 @@
 # OpenMP
-OpenMP implementations of Area of Circle using Numerical Integration and Monte Carlo random number generation using mutithreading.
+OpenMP implementations of Area of Circle using Numerical Integration and Monte Carlo Random Number Generation using Mutithreading.
 # Numerical Integration
 ![alt-text](https://github.com/Somu1234/OpenMP/blob/main/Numerical%20Integration/area_num_int_output.png)
 # Monte Carlo Random
